@@ -37,6 +37,13 @@ To run the app on Android
 pnpm android
 ```
 
+To push the initial commit
+
+```sh
+# bypass the husky hook by `--no-verify`
+git commit -m 'feat: initial commit' --no-verify`
+```
+
 ## ✍️ Documentation
 
 - [Rules and Conventions](https://starter.obytes.com/getting-started/rules-and-conventions/)
