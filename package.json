@@ -41,6 +41,7 @@
     "@gorhom/bottom-sheet": "^4.5.1",
     "@hookform/resolvers": "^2.9.11",
     "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/drawer": "^6.6.6",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/native-stack": "^6.9.12",
     "@shopify/flash-list": "1.4.3",
